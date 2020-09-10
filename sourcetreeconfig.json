@@ -1,0 +1,19 @@
+{
+  "$id": "1",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": null,
+  "IncomingSavedCount": 1,
+  "LastCheckedRemotes": "2020-09-09T09:36:45.5425222+02:00",
+  "LastUsedView": 0,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 1,
+  "SidebarExpandedItems": [
+    "File Status",
+    "Branches"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "RemoteProjectLinks": []
+}
